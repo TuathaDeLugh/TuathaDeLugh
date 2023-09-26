@@ -112,11 +112,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TuathaDeLugh&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuathaDeLugh&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
