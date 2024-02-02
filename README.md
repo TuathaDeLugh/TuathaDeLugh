@@ -9,10 +9,10 @@
 ### <div align="center">A passionate Web developer from India</div>  
   
 
--  🔭 I’m currently working on NEXT.JS POTFOLIO.  
+-  🔭 I’m currently building my NEXT.JS PORTFOLIO.
   
 
-- 🌱 I’m currently learning Next.js  
+- 🌱 I’m currently learning Next.js(TypeScript)  
   
 
 - 📫 Reach me at umangsailor@hotmail.com.  
