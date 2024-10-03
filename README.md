@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Next.js(TypeScript)  
   
 
-- 📫 Reach me at umangsailor@hotmail.com.  
+- 📫 Reach me at contact@umangsailor.com.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
